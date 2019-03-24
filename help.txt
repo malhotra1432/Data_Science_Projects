@@ -1,0 +1,36 @@
+Data Cleaning
+=============
+
+
+Processes:
+==========
+1) Fix rows and columns
+2) Fix missing values
+3) Standardized your value
+4) Fixing invalid value
+5) Filter data
+
+
+Fixings rows:
+=============
+1) Delete Incorrect Rows
+2) Delete summary rows
+3) Delete extra rows
+
+Fixing columns:
+===============
+1) Add column name if missing
+2) Rename the columns
+3) Delete unnecessary columns
+4) Split columns (ex: http://localhost/8000 => host = localhost, port = 8000 , ex2: date => year = xxxx, date=xx)
+5) Merging columns (ex: First Name + Last Name)
+6) Alignment problems
+
+Standardizing data:
+===================
+1) Convert the related data into similar SI unit(EX: gm to kg or vice versa and so on)
+
+Filtering Data:
+===============
+1) Duplicate rows or column must be removed
+
